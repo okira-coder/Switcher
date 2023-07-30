@@ -1,0 +1,9 @@
+{
+  "name": "client",
+  "android": {
+    "package": "com.okiracode.client"
+  },
+  "ios": {
+    "bundleIdentifier": "com.okiracode.client"
+  }
+}
